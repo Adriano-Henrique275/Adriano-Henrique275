@@ -5,10 +5,12 @@
 
 <div align="center">
 
- 🔭 I’m currently working in `DEV CODS`
- 🌱 I’m currently learning NestJs, NodeJs, TypeScript...
+* 🔭 I’m currently working in `DEV CODS`
+* 🌱 I’m currently learning NestJs, NodeJs, TypeScript...
 
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Henrique275)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div align="center">
@@ -22,6 +24,7 @@
 </div>
 
 </div>  
+
 ---
 
  
