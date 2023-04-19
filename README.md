@@ -3,11 +3,12 @@
 
 **Adriano Henrique** is a ✨ _special_ ✨ `GITHUB`
 
-
+<div align="center">
 
 - 🔭 I’m currently working in `DEV CODS`
 - 🌱 I’m currently learning NestJs, NodeJs, TypeScript...
 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
