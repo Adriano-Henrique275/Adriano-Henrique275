@@ -5,10 +5,13 @@
 
 <div align="center">
 
-- 🔭 I’m currently working in `DEV CODS`
-- 🌱 I’m currently learning NestJs, NodeJs, TypeScript...
+ 🔭 I’m currently working in `DEV CODS`
+ 🌱 I’m currently learning NestJs, NodeJs, TypeScript...
 
 </div>
+
+---
+<div align="center">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +20,8 @@
   <img align="center" alt="Dri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
-  
+
+</div>  
 ---
 
  
