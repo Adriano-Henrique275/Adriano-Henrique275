@@ -1,11 +1,19 @@
-### Hi devs 👋
+# 👋 Olá! Eu sou Adriano, um apaixonado desenvolvedor especializado em Node.js, React.js, Docker, Javascript, Typescript, React-Native com experiência na construção de aplicativos robustos e escaláveis
 
 
 **Adriano Henrique** is a ✨ _special_ ✨ `GITHUB`
 
 <div align="center">
 
-<div>🔭 I’m currently working in `DEV CODS`</div>
+<div>
+  💻 Minha jornada no desenvolvimento começou há 7 anos, e desde então tenho me dedicado intensamente ao ecossistema Node.js, explorando suas possibilidades e contribuindo para projetos inovadores.
+
+🚀 Ao longo da minha carreira, tive a oportunidade de trabalhar em uma variedade de projetos desafiadores, desde APIs RESTful até aplicações de tempo real, sempre buscando utilizar as melhores práticas e ferramentas disponíveis.
+
+🔧 Tenho experiência em frameworks como Express.js, além de profundo conhecimento em tecnologias complementares como MongoDB, PostgreSQL e Docker, o que me permite criar soluções completas e eficientes.
+
+🌟 Sou um entusiasta da comunidade de desenvolvimento, participando ativamente de grupos de discussão, eventos e contribuindo para projetos de código aberto sempre que possível.
+</div>
 <div>🌱 I’m currently learning NestJs, NodeJs, TypeScript...</div>
 
 </div>
@@ -46,4 +54,10 @@
   <a href="https://www.linkedin.com/in/adriano-henrique-7601b9203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
+Entre em contato comigo:
+
+[LinkedIn](https://www.linkedin.com/in/adriano-henrique-7601b9203/)
+[Github](https://github.com/Adriano-Henrique275)
+[CV](https://adriano-henrique-cv.vercel.app/)
 
