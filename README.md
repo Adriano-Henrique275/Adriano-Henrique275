@@ -1,7 +1,8 @@
-# 👋 Olá! Eu sou Adriano, um apaixonado desenvolvedor especializado em Node.js, React.js, Docker, Javascript, Typescript, React-Native com experiência na construção de aplicativos robustos e escaláveis
+# 👋 Olá! 
+Eu sou Adriano, um apaixonado desenvolvedor especializado em Node.js, React.js, Docker, Javascript, Typescript, React-Native com experiência na construção de aplicativos robustos e escaláveis
 
 
-**Adriano Henrique** is a ✨ _special_ ✨ `GITHUB`
+**Adriano Henrique** sou um ✨ _apaixonado_ ✨ `GITHUB`
 
 <div align="center">
 
@@ -14,7 +15,7 @@
 
 🌟 Sou um entusiasta da comunidade de desenvolvimento, participando ativamente de grupos de discussão, eventos e contribuindo para projetos de código aberto sempre que possível.
 </div>
-<div>🌱 I’m currently learning NestJs, NodeJs, TypeScript...</div>
+<div>🌱 Meus aprendizados, NestJs, NodeJs, ReactJs, react-Native, NextJs, TypeScript...</div>
 
 </div>
 
@@ -47,7 +48,7 @@
  
 <div align="center">
 
-#### My Social Networks
+#### Minhas redes sociais:
 
   <a href="https://www.youtube.com/channel/UCuZidUa3Igwl-BTy22LLO4Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dri3801?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
@@ -55,9 +56,13 @@
 
 </div>
 
-Entre em contato comigo:
+---
+
+### Entre em contato comigo:
 
 [LinkedIn](https://www.linkedin.com/in/adriano-henrique-7601b9203/)
+
 [Github](https://github.com/Adriano-Henrique275)
+
 [CV](https://adriano-henrique-cv.vercel.app/)
 
